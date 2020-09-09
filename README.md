@@ -14,3 +14,8 @@ Starta upp Raspberryn och följ ordinarie installationanvisningar. Välj att ins
 * Uppdatera: Skip
 
 ### Uppsättningsscript
+
+
+```sh
+curl -o kiosk.sh -L kiosk.vamas.io
+```
