@@ -1,5 +1,5 @@
 # raspberry-flex_stampelklocka
-Automatiseringsscript för uppsättning av stämpelklocka
+Script för installation av stämpelklocka (Flex) på Raspberry Pi.
 
 ## Installation
 Starta upp Raspberryn och följ ordinarie installationanvisningar. Välj att installera Raspbian/Noobs vid eventuell fråga. Kom ihåg att koppla upp enheten trådlöst mot ett öppet WiFi samt att ta bort lösenordet för användaren. Vid fråga om uppdatering, välj nej.
